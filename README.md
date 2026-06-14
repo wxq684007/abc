@@ -1,4 +1,4 @@
-## Mitv 免workers部署 ， 世界杯哈 https://itv.tv1288.xyz
+## Mitv 免workers部署 ， 小白测试链接： https://itv.tv1288.xyz
 
 ## 夸克网盘免费扩容1TB：https://pan.quark.cn/s/24e7633bbfaf
 -----------------
